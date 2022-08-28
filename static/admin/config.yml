@@ -12,7 +12,7 @@
 
 backend:
   name: github
-  repo: rstandow/CloudResumeRichard
+  repo: rstandow/RichardCloudResume
   branch: master
 
 
