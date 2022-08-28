@@ -1,0 +1,58 @@
+title = "Richard Standow"
+baseURL = "https://dev.hitechmadeez.com/"
+relativeURLs = true
+uglyURLs = true
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Portland, OR"
+email = "rstandow+resume@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Richard"
+lastName = "Standow"
+phone = "1-971-266-0167"
+profileImage = "img/TechChat.png"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = false
+showQr = true
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "UA-232949776-1"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/richard-standow-jr-42835b41/
+"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/rstandow"
+name = "GitHub"
+
+#[[params.handles]]
+#link = "https://bitbucket.org/eddiewebb/"
+#name = "Bitbucket"
+
+#[[params.handles]]
+#link = "https://stackoverflow.com/users/story/82880"
+#name = "Stack Overflow"
+
+#[[params.handles]]
+#link = "https://keybase.io/edwardawebb"
+#name = "Keybase"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
