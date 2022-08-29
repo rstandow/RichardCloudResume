@@ -28,7 +28,7 @@ For section two and three I decied to learn a markdown complier called **Hugo** 
 This resume site is static site hosted on S3 container 
 I also created dynamic site the root domain of this one https://www.hitechmadeez.com. This allowed me to practice using Wordpress and keeping it secure and up to date and other AWS severics S3 bucket for offsite image storeage,VPC,Load Balancer,EC2,AMI Image,Snapshots,Cloudfront,WAF. I also setup a mail server I had to setup SMTP relay since most cloud providers do not allow mail servers without special premission.
 5. HTTPS  
-This site is secured with CloudFront SSL cert the root domain has dev. and other testing envoirments that I used a lets encrypt and wildcard for mail and sub domains
+This site is secured with CloudFront SSL cert the root domain www is cloudfront cache while dev. and other testing envoirments that I used a lets encrypt and wildcard for mail and sub domains
 6. DNS  
 The lamp stack server has its internal DNS for namer server for other sub domains. This and main site is hosted through Route53 
 7. Javascript  
