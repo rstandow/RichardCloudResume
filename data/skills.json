@@ -14,7 +14,11 @@
     "grouping":"Containers & Cloud",
       "skills":[
           {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"}
+          {"name":"Google Cloud","link":"https://cloud.google.com"},
+        {
+          "link": "https://www.digitalocean.com",
+          "name": "Digitial Ocean"
+        }
       ]
   }
 ]
