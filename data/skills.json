@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","IDS HIDS","AP Points","CDN"]
+      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","IDS HIDS","AP Points","CDN","S3","EC2","CloudFront","WAF"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ "Python","git","subversion","linux","yaml","markdown","toml","MDM","At Rest Encryption and Full Disk","CRM IE Hubspot"]
