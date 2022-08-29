@@ -1,20 +1,26 @@
 [
-    {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
-    },
-    {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
-    },
-    {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
-    }
+  {
+    "role": "Owner and Operator",
+    "company": "[OFF THE REZ LLC](https://www.etsy.com/shop/OffTheRezShop)",
+    "summary": "Started and ran Print On Demand(POD) stores on merch by amazon,amazon,etsy,shopify had to scale down operations due to constraints on running it from Thailand and rising cost.<br>  \n- Shopify,Etsy api integration with manufacturers, and payment processors \n- Business to Business account management and relations \n- Customer managment and relations \n- Utilized open source software like GIMP,AWS,GCP free tiers to help on cost savings",
+    "range": "May 2018 - Present"
+  },
+  {
+    "role": "Dir Of Operations",
+    "company": "[Paul Mitchell The School Portland](https://paulmitchell.edu/)",
+    "summary": " I was responsible for all segments of the operations of a company.<br>  \n- Managed Sales,Accounting,Operations,Admissions depatrments with 28 employees and 250 students \n- Worked with C level from other compaines like Patron and others that John Paul owned for events and goals. \n- Took the company from monthly net loss to postive monthly income \n- Worked with managers to handle employee and student concerns.",
+    "range": "April 2014 - February 2018"
+  },
+  {
+    "role": "Help Desk and Jr Sys Admin",
+    "company": "[Motosport](https://www.motosport.com)",
+    "summary": "Provided Desktop support and System administrator duties for large E-commerce company 150+ Million online sales.<br>  \n- Provided Help Desk support to over 400 employees in a mixed Windows, Linux and Macintosh environment. \n- Maintained documentation on problems and remedial actions taken using ticket system and internal wiki. \n- Created new Active Directory accounts, Active Directory and MS Exchange management, print servers, File servers. \n- Served on call for performance of Production Servers and Enterprise level computer systems Windows AD, Linux Debian SAMBA File servers, MS SQL servers.",
+    "range": "January 2012 - March 2014"
+  },
+  {
+    "role": "Signal Support System Specialist",
+    "company": "[US ARMY](https://www.goarmy.com/careers-and-jobs/career-match/signal-intelligence/locations-stats-frequencies/25u-signal-support-systems-specialist.html)",
+    "summary": "Started as Communications Specialist in the Army. Finished as Dual Status Federal Tech Washington State DOD Information Security Officer for Eastern Washington.<br>  \n- Provided Help Desk support in DOD environment to over 2000+ members of DOD Maintained Windows Deployment Image server with several Role Images \n- Oversaw Windows migration from windows XP to Vista later to Windows 7. Well over 3000 Desktops and Laptops \n- Maintained 4+ Million dollars of computer inventory for Eastern Washington in case hard ware failure or new employee, and temporary need \n- Scheduled and trained users in computer knowledge and personal security of equipment \n-Setup Secure Cisco Switches, VPN, and wireless points for visiting units. Managed McAfee Enterprise Ed. with agent",
+    "range": "March 1996 - July 2011"
+  }
 ]
