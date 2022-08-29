@@ -1,15 +1,16 @@
 [
-    {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
-    },
-    {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
-    }
+  {
+    "school": "[Sirada Learning Centre](https://learningcentre.co.th/)",
+    "degree": "Intermediate Thai Conversation",
+    "range": "2021 - 2022"
+  },
+  {
+    "school": "[Portland Community College](https://www.pcc.edu/)",
+    "degree": "Associate of Applied Science In Porgess",
+    "major": "Computer Information Systems",
+    "minor": "Business",
+    "notes": "Only the math class requirment and did not want to take that virtually during covid",
+    "range": "2018 - 2020"
+
+  }
 ]
