@@ -1,6 +1,6 @@
 [
   {
-      "grouping":"Architecture",
+      "grouping":"Architecture and Containers",
       "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","IDS HIDS","AP Points","CDN","S3","EC2","CloudFront","WAF"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
@@ -11,7 +11,7 @@
       "skills":[ "NGINX","MySQL","Wordpress","Hugo","LMAP","Windows AD","Windows Server various roles"]
   },
   {
-    "grouping":"Containers & Cloud",
+    "grouping":"Cloud providers that I have worked in",
       "skills":[
           {"name":"AWS","link":"https://aws.amazon.com"},
           {"name":"Google Cloud","link":"https://cloud.google.com"},
