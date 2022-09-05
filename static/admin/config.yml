@@ -16,13 +16,13 @@ backend:
   branch: master
 
 
-media_folder: "dev.hitechmadeez.com/static/img" # Folder where user uploaded files should go
+media_folder: "richard-hitech-resume.netlify.app/static/images/uploads" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "Blog" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Blog" # Used in the UI, ie.: "New Post"
-    folder: "dev.hitechmadeez.com/content/blog" # The path to the folder where the documents are stored
+    folder: "richard-hitech-resume.netlify.app/content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -32,7 +32,7 @@ collections: # A list of collections the CMS should be able to edit
        
   - name: "Projects" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Projects" # Used in the UI, ie.: "New Post"
-    folder: "dev.hitechmadeez.com/content/projects/creations" # The path to the folder where the documents are stored
+    folder: "richard-hitech-resume.netlify.app/content/projects/creations" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}     
@@ -49,7 +49,7 @@ collections: # A list of collections the CMS should be able to edit
        
   - name: "Contributions" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Contributions" # Used in the UI, ie.: "New Post"
-    folder: "dev.hitechmadeez.com/content/projects/contributions" # The path to the folder where the documents are stored
+    folder: "richard-hitech-resume.netlify.app/content/projects/contributions" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}     
@@ -66,7 +66,7 @@ collections: # A list of collections the CMS should be able to edit
        
   - name: "Publications" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Publications" # Used in the UI, ie.: "New Post"
-    folder: "dev.hitechmadeez.com/content/publications" # The path to the folder where the documents are stored
+    folder: "richard-hitech-resume.netlify.app/content/publications" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}     
@@ -89,7 +89,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - name: 'general'
         label: 'Site Settings'
-        file: 'dev.hitechmadeez.com/config.toml'
+        file: 'richard-hitech-resume.netlify.app/config.toml'
         extension: toml
         description: 'General Site Settings'
         fields:

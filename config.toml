@@ -1,5 +1,5 @@
 title = "Richard Standow"
-baseURL = "https://richard.hitechmadeez.com"
+baseURL = "richard-hitech-resume.netlify.app"
 relativeURLs = true
 uglyURLs = true
 theme = "hugo-resume"
@@ -55,3 +55,6 @@ home = ["HTML", "JSON"]
 
 [taxonomies]
 tag = "tags"
+
+# /admin/config.yml
+publish_mode: editorial_workflow
