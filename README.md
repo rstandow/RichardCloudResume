@@ -4,22 +4,22 @@
 <p align="left"> You can find a live version of this project at [Cloud Resume Challenage](https://richard.hitechmadeez.com)</p>
 This project conisist of 
 <ul>
-<li>1. Certification</li>
-<li>2. HTML</li>
-<li>3. CSS</li>
-<li>4. Static Website</li>
-<li>5. HTTPS</li>
-<li>6. DNS</li>
-<li>7. Javascript</li>
-<li>8. Database</li>
-<li>9. API</li>
-<li>10. Python</li>
-<li>11. Tests</li>
-<li>12. Infrastructure as Code</li>
-<li>13. Source Control</li>
-<li>14. CI/CD (Back end)</li>
-<li>15. CI/CD (Front end)</li>
-<li>16. Blog post</li>
+<li>Certification</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Static Website</li>
+<li>HTTPS</li>
+<li>DNS</li>
+<li>Javascript</li>
+<li>Database</li>
+<li>API</li>
+<li>Python</li>
+<li>Tests</li>
+<li>Infrastructure as Code</li>
+<li>Source Control</li>
+<li>CI/CD (Back end)</li>
+<li>CI/CD (Front end)</li>
+<li>Blog post</li>
 </ul>
 
 
