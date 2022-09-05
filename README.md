@@ -1,11 +1,29 @@
-<h1 align="center">Hi 👋, I'm Richard Standow</h1>
-<h3 align="center">Cloud Solutions Architect</h3>
+<h1 align="center">Hello there, I'm Richard Standow</h1>
+<h3 align="center"> This is my Cloud Resume For Cloud Solutions Architect</h3>
+
+<p align="left"> You can find a live version of this project at [Cloud Resume Challenage](https://richard.hitechmadeez.com)</p>
+This project conisist of 
+1. Certification
+2. HTML
+3. CSS
+4. Static Website
+5. HTTPS
+6. DNS
+7. Javascript
+8. Database
+9. API
+10. Python
+11. Tests
+12. Infrastructure as Code
+13. Source Control
+14. CI/CD (Back end)
+15. CI/CD (Front end)
+16. Blog post
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rstandow&label=Profile%20views&color=0e75b6&style=flat" alt="rstandow" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rstandow" alt="rstandow" /></a> </p>
-
-- 🔭 I’m currently working on [Cloud Resume Challenage](https://richard.hitechmadeez.com)
 
 - 🌱 I’m currently learning **AWS**
 
@@ -19,7 +37,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/richard-standow-jr-42835b41/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/richard-standow-jr-42835b41/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/richard-standow-jr-42835b41/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/richard-standow-jr-42835b41/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
