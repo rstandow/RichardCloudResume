@@ -57,4 +57,4 @@ home = ["HTML", "JSON"]
 tag = "tags"
 
 # /admin/config.yml
-publish_mode: editorial_workflow
+publish_mode = "editorial_workflow"

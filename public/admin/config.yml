@@ -18,7 +18,6 @@ backend:
 
 media_folder: "richard-hitech-resume.netlify.app/static/images/uploads" # Folder where user uploaded files should go
 public_folder: "img"
-publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
   - name: "Blog" # Used in routes, ie.: /admin/collections/:slug/edit
