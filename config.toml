@@ -1,5 +1,5 @@
 title = "Richard Standow"
-baseURL = "https://dev.hitechmadeez.com/"
+baseURL = "https://richard.hitechmadeez.com"
 relativeURLs = true
 uglyURLs = true
 theme = "hugo-resume"
@@ -16,7 +16,7 @@ favicon = "/favicon.ico"
 firstName = "Richard"
 lastName = "Standow"
 phone = "1-971-266-0167"
-profileImage = "img/TechChat.png"
+profileImage = ""
 showEducation = true
 showExperience = true
 showOpenSource = false
