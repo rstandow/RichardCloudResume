@@ -1,5 +1,5 @@
 title = "Richard Standow"
-baseURL = "richard-hitech-resume.netlify.app"
+baseURL = "https://richard.hitechmadeez.com/"
 relativeURLs = true
 uglyURLs = true
 theme = "hugo-resume"
