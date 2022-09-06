@@ -24,6 +24,7 @@ showProjects = true
 showPublications = false
 showQr = true
 showSkills = true
+showBlog = true
 
 [params.google]
 
@@ -43,8 +44,8 @@ name = "GitHub"
 #name = "Bitbucket"
 
 #[[params.handles]]
-#link = "https://stackoverflow.com/users/story/82880"
-#name = "Stack Overflow"
+#link = "docs/testDLDoc.txt"
+#name = "download resume"
 
 #[[params.handles]]
 #link = "https://keybase.io/edwardawebb"

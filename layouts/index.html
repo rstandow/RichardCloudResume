@@ -27,6 +27,9 @@
    {{ if .Site.Params.showEducation }}
        {{ partial "portfolio/education.html" . }}
    {{ end }}
+   {{ if .Site.Params.showDowloadFiles}}
+       {{ partial "downloadFiles.html"}}
+   {{ end }}
    {{ if .Site.Params.showBlog }}
       {{ with .Site.GetPage "section" "blog" }}
          {{ .Scratch.Set "sectionId" "blog" }}
