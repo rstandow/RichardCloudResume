@@ -25,7 +25,7 @@ On [https://richard.hitechmadeez.com](https://richard.hitechmadeez.com) in the p
 <br>
 <br>
 Here is ruff draft of network diagram <br>
-![My Remote Image](https://github.com/rstandow/RichardCloudResume/blob/master/HitechmadeezNetworkDiagram.svg?dl=0)
+![Cloud Resume Diagram](HitechmadeezNetworkDiagram.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rstandow&label=Profile%20views&color=0e75b6&style=flat" alt="rstandow" /> </p>
 
