@@ -26,7 +26,7 @@ On [https://richard.hitechmadeez.com](https://richard.hitechmadeez.com) in the p
 <br>
 Here is ruff draft of network diagram 
 <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://github.com/rstandow/RichardCloudResume/blob/master/HitechmadeezNetworkDiagram.svg" alt="Cloud Diagram" width="300" height="300"/>
 
 
 <h2>Below you will find out more information on me and how to contact me</h2>
