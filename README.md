@@ -1,8 +1,8 @@
-<h1 align="center">Hello there, I'm Richard Standow</h1>
+<h1 align="center">Hello I'm Richard Standow</h1>
 <h3 align="center"> This is my Cloud Resume For Cloud Solutions Architect</h3>
 
 <p align="left"> You can find a live version of this project at [Cloud Resume Challenage](https://richard.hitechmadeez.com)</p>
-This project conisist of 
+This project conisist of the following
 <ul>
 <li>Certification</li>
 <li>HTML</li>
@@ -21,7 +21,11 @@ This project conisist of
 <li>CI/CD (Front end)</li>
 <li>Blog post</li>
 </ul>
-
+On [https://richard.hitechmadeez.com](https://richard.hitechmadeez.com) in the project section you will find a breakdown of each section and what I did to meet the requirement. 
+<br>
+<br>
+Here is ruff draft of network diagram <br>
+![alt text](https://github.com/[rstandow]/[RichardCloudResume]/blob/[master]/HitechmadeezNetworkDiagram.svg?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rstandow&label=Profile%20views&color=0e75b6&style=flat" alt="rstandow" /> </p>
 
