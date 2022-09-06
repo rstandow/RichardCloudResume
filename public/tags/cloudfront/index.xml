@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CloudFront on Richard Standow</title>
+    <link>https://richard.hitechmadeez.com/tags/cloudfront.html</link>
+    <description>Recent content in CloudFront on Richard Standow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Aug 2022 14:29:22 +0700</lastBuildDate><atom:link href="https://richard.hitechmadeez.com/tags/cloudfront/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Resume Challenge</title>
+      <link>https://richard.hitechmadeez.com/projects/creations/cloud-resume-challenge.html</link>
+      <pubDate>Mon, 29 Aug 2022 14:29:22 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/projects/creations/cloud-resume-challenge.html</guid>
+      <description>As I lack proof of cloud skills working for others I put this together to showcase my skills. You may ask &amp;ldquo;What is Cloud Resume Challenge&amp;rdquo;? let me use a bit Prompt engineering and see what GPT3 says &amp;ldquo;As more and more businesses move to the cloud, they are looking for ways to leverage this new technology to improve their bottom line. One way they are doing this is by challenging their employees to create resumes that are stored in the cloud.</description>
+    </item>
+    
+  </channel>
+</rss>
