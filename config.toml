@@ -12,7 +12,7 @@ enableGitInfo = false
 [params]
 address = "Portland, OR"
 email = "rstandow+resume@gmail.com"
-favicon = "/favicon.ico"
+favicon = "img/favicon.ico"
 profileImage = "img/placeholder.png"
 firstName = "Richard"
 lastName = "Standow"
