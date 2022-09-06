@@ -21,7 +21,7 @@ This project conisist of the following
 <li>CI/CD (Front end)</li>
 <li>Blog post</li>
 </ul>
-On [https://richard.hitechmadeez.com](https://richard.hitechmadeez.com) in the project section you will find a breakdown of each section and what I did to meet the requirement. 
+On(https://richard.hitechmadeez.com) in the project section you will find a breakdown of each section and what I did to meet the requirement. 
 <br>
 <br>
 Here is ruff draft of network diagram 
