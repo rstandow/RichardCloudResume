@@ -24,8 +24,12 @@ This project conisist of the following
 On [https://richard.hitechmadeez.com](https://richard.hitechmadeez.com) in the project section you will find a breakdown of each section and what I did to meet the requirement. 
 <br>
 <br>
-Here is ruff draft of network diagram <br>
-![Cloud Resume Diagram](HitechmadeezNetworkDiagram.svg)
+Here is ruff draft of network diagram 
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+
+
+<h2>Below you will find out more information on me and how to contact me</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rstandow&label=Profile%20views&color=0e75b6&style=flat" alt="rstandow" /> </p>
 
