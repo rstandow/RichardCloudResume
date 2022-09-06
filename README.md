@@ -25,7 +25,11 @@ On [https://richard.hitechmadeez.com](https://richard.hitechmadeez.com) in the p
 <br>
 <br>
 Here is ruff draft of network diagram <br>
-![alt text](https://github.com/[rstandow]/[RichardCloudResume]/blob/[master]/HitechmadeezNetworkDiagram.svg?raw=true)
+<img
+  src="rstandow/RichardCloudResume/blob/master/HitechmadeezNetworkDiagram.svg"
+  alt="Richard Cloud Diagram"
+  title="Cloud Resume"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rstandow&label=Profile%20views&color=0e75b6&style=flat" alt="rstandow" /> </p>
 
