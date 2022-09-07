@@ -40,7 +40,7 @@ link = "https://github.com/rstandow"
 name = "GitHub"
 
 #[[params.handles]]
-#link = "https://bitbucket.org/eddiewebb/"
+#link = ""
 #name = "Bitbucket"
 
 #[[params.handles]]
@@ -48,7 +48,7 @@ name = "GitHub"
 #name = "download resume"
 
 #[[params.handles]]
-#link = "https://keybase.io/edwardawebb"
+#link = ""
 #name = "Keybase"
 
 [outputs]
