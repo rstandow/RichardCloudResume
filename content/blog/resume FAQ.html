@@ -47,28 +47,3 @@ sitemap:
 		<a href="docs/Richard Standow Resume.pdf" download><button style="padding:10px;">Download PDF</button></a>
 		<a href="docs/Richard Standow Resume.docx" download><button style="padding:10px;">Download Word</button></a>
 		<a href="docs/Richard Standow Resume.txt" download><button style="padding:10px;">Download Text</button></a>
-		<script type="text/javascript">
-< !DOCTYPE html >
-					<html>
-							<script>
-								var numVisits = 0;
-
-								function getNumVisits() {
-							var xhttp = new XMLHttpRequest();
-								xhttp.onreadystatechange = function() {
-								if (this.readyState == 4 && this.status == 200) {
-									numVisits = this.responseText;
-								}
-							};
-								xhttp.open("GET", "getNumVisits.php", true);
-								xhttp.send();
-						}
-
-								getNumVisits();
-		</script>
-
-		<div id="numVisits">
-			This page has been visited <?php echo $numVisits; ?> times.
-		</div>
-		</body>
-		</html>
