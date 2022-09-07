@@ -26,7 +26,7 @@ On (https://richard.hitechmadeez.com) in the project section you will find a bre
 <br>
 Here is ruff draft of network diagram 
 <br>
-<img src="https://github.com/rstandow/RichardCloudResume/blob/master/HitechmadeezNetworkDiagram.svg" alt="Cloud Diagram" width="300" height="300"/>
+<img src="https://github.com/rstandow/RichardCloudResume/blob/master/HitechmadeezNetworkDiagram.svg" alt="Cloud Diagram" width="800" height="800"/>
 
 
 <h2>Below you will find out more information on me and how to contact me</h2>
