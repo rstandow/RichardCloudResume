@@ -8,7 +8,7 @@
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "NGINX","MySQL","Wordpress","Hugo","LMAP","Windows AD","Windows Server various roles"]
+      "skills":[ "NGINX","MySQL","Wordpress","Hugo","LAMP","Windows AD","Windows Server various roles"]
   },
   {
     "grouping":"Cloud providers that I have worked in",
@@ -17,7 +17,7 @@
           {"name":"Google Cloud","link":"https://cloud.google.com"},
         {
           "link": "https://www.digitalocean.com",
-          "name": "Digitial Ocean"
+          "name": "Digital Ocean"
         }
       ]
   }
