@@ -13,7 +13,7 @@ enableGitInfo = true
 address = "Portland, OR"
 email = "rstandow+resume@gmail.com"
 favicon = "img/favicon.png"
-profileImage = "img/placeholder.png"
+profileImage = "img/Richard Standow1.webp"
 firstName = "Richard"
 lastName = "Standow"
 phone = "1-971-266-0167"
@@ -46,4 +46,4 @@ home = ["HTML", "JSON"]
 tag = "tags"
 
 # /admin/config.yml
-publish_mode = "editorial_workflow"
+#publish_mode = "editorial_workflow"
