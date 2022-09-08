@@ -3,14 +3,19 @@ title: "Cloud Resume Challenge"
 date: 2022-08-29T14:29:22+07:00
 featured: true
 description: "MY AWS Cloud Resume Challenge"
-tags: ["AWS","CSS","CloudFront","Load Balancer","EC2","S3","Lambda",""DynamoDB","Rest API","CORS","Python"]
-image: ""
-link: ""
+tags: ["AWS","CSS","CloudFront","Load Balancer","EC2","S3","WAF","Lambda","Rest API"]
+image: "img/NetworkDiagram.webp"
+link: "https://richard.hitechmadeez.com/projects/creations/cloud-resume-challenge.html"
 fact: ""
 weight: 5
 sitemap:
   priority : 0.8
 ---
+  
+  
+
+{{< figure src="/img/NetworkDiagram.webp" alt="Network Diagram" width="1500px" >}}
+
 As I lack proof of cloud skills working for others, I put this project together to showcase my skills. You may ask "What is Cloud Resume Challenge"? let me use a bit of Prompt engineering and see what GPT3 says "As more and more businesses move to the cloud; they are looking for ways to leverage this new technology to improve their bottom line. One way they are doing this is by challenging their employees to create resumes that are stored in the cloud.
 The cloud resume challenge is a way for businesses to encourage their employees to create resumes that are stored in the cloud. This way, if an employee leaves the company, their resume is still stored in the cloud and can be accessed by the new employer.
 This challenge can be used to improve employee retention, as well as to help businesses save money on printing and storing paper resumes. It is also a way to encourage employees to keep their resumes up to date.
@@ -18,8 +23,9 @@ If you are a business owner or manager, you can encourage your employees to part
 To get started, all you need to do is create a cloud storage account and give your employees access to it. Then, challenge them to create the best resume they can. The sky's the limit!"  Interesting that GPT3 used the approach of looking at it from an employers point of view. 
 <br>
 I used this template from this site https://cloudresumechallenge.dev/docs/the-challenge/aws modified it a bit, by adding more to it and over the time I will add more functionality to this page and hitechmadeez.com.  
+  
 **Here are the steps I took with a breakdown**  
-<br>
+<br>  
 1. Certification  
 I have finished both the AWS training for Practitioners, and Solutions Architect. I will wait until I am back in the US to take the test, which should be Nov or Dec 22.
 2. HTML
