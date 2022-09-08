@@ -26,12 +26,15 @@
     </item>
     
     <item>
-      <title>Resume_FAQ</title>
-      <link>https://richard.hitechmadeez.com/blog/resume_faq.html</link>
+      <title>Resume and FAQ</title>
+      <link>https://richard.hitechmadeez.com/blog/resume-faq.html</link>
       <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
       
-      <guid>https://richard.hitechmadeez.com/blog/resume_faq.html</guid>
-      <description>resume and FAQ page</description>
+      <guid>https://richard.hitechmadeez.com/blog/resume-faq.html</guid>
+      <description>FAQ you may have.Q: Where are you now?
+A: Until Nov 5th 2022 I currently reside in Hua Hin Thailand. After Nov 5th I plan on living in Portland Oregon USA.Q: Are you willing to relocate?
+A: Yes I am willing to relocate for the right job.Q: What kind of job are you looking for?
+A: Full time and it would be great if I could work remote and live in Hua Hin Thailand.</description>
     </item>
     
     <item>
@@ -50,16 +53,6 @@
       
       <guid>https://richard.hitechmadeez.com/projects/past-projects/schema-org.html</guid>
       <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://richard.hitechmadeez.com/blog/testpage.html</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>https://richard.hitechmadeez.com/blog/testpage.html</guid>
-      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
-First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
     </item>
     
     <item>

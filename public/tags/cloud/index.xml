@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog and Resumes on Richard Standow</title>
-    <link>https://richard.hitechmadeez.com/blog.html</link>
-    <description>Recent content in Blog and Resumes on Richard Standow</description>
+    <title>Cloud on Richard Standow</title>
+    <link>https://richard.hitechmadeez.com/tags/cloud.html</link>
+    <description>Recent content in Cloud on Richard Standow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://richard.hitechmadeez.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Sep 2022 12:05:51 +0700</lastBuildDate><atom:link href="https://richard.hitechmadeez.com/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume and FAQ</title>
       <link>https://richard.hitechmadeez.com/blog/resume-faq.html</link>

@@ -8,56 +8,65 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Sep 2022 12:05:51 +0700</lastBuildDate><atom:link href="https://richard.hitechmadeez.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>in</title>
-      <link>https://richard.hitechmadeez.com/tags/in.html</link>
-      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
-      
-      <guid>https://richard.hitechmadeez.com/tags/in.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>techtags</title>
-      <link>https://richard.hitechmadeez.com/tags/techtags.html</link>
-      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
-      
-      <guid>https://richard.hitechmadeez.com/tags/techtags.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>used</title>
-      <link>https://richard.hitechmadeez.com/tags/used.html</link>
-      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
-      
-      <guid>https://richard.hitechmadeez.com/tags/used.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>website</title>
-      <link>https://richard.hitechmadeez.com/tags/website.html</link>
-      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
-      
-      <guid>https://richard.hitechmadeez.com/tags/website.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AWS</title>
       <link>https://richard.hitechmadeez.com/tags/aws.html</link>
-      <pubDate>Mon, 29 Aug 2022 14:29:22 +0700</pubDate>
+      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
       
       <guid>https://richard.hitechmadeez.com/tags/aws.html</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Cloud</title>
+      <link>https://richard.hitechmadeez.com/tags/cloud.html</link>
+      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/tags/cloud.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CloudFront</title>
       <link>https://richard.hitechmadeez.com/tags/cloudfront.html</link>
-      <pubDate>Mon, 29 Aug 2022 14:29:22 +0700</pubDate>
+      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
       
       <guid>https://richard.hitechmadeez.com/tags/cloudfront.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://richard.hitechmadeez.com/tags/git.html</link>
+      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/tags/git.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lambda</title>
+      <link>https://richard.hitechmadeez.com/tags/lambda.html</link>
+      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/tags/lambda.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://richard.hitechmadeez.com/tags/resume.html</link>
+      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/tags/resume.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S3</title>
+      <link>https://richard.hitechmadeez.com/tags/s3.html</link>
+      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/tags/s3.html</guid>
       <description></description>
     </item>
     
@@ -85,15 +94,6 @@
       <pubDate>Mon, 29 Aug 2022 14:29:22 +0700</pubDate>
       
       <guid>https://richard.hitechmadeez.com/tags/load-balancer.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S3</title>
-      <link>https://richard.hitechmadeez.com/tags/s3.html</link>
-      <pubDate>Mon, 29 Aug 2022 14:29:22 +0700</pubDate>
-      
-      <guid>https://richard.hitechmadeez.com/tags/s3.html</guid>
       <description></description>
     </item>
     
@@ -148,51 +148,6 @@
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
       <guid>https://richard.hitechmadeez.com/tags/rest-apis.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>apache</title>
-      <link>https://richard.hitechmadeez.com/tags/apache.html</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>https://richard.hitechmadeez.com/tags/apache.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>redirect</title>
-      <link>https://richard.hitechmadeez.com/tags/redirect.html</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>https://richard.hitechmadeez.com/tags/redirect.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rewrite</title>
-      <link>https://richard.hitechmadeez.com/tags/rewrite.html</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>https://richard.hitechmadeez.com/tags/rewrite.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ssl</title>
-      <link>https://richard.hitechmadeez.com/tags/ssl.html</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>https://richard.hitechmadeez.com/tags/ssl.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web development</title>
-      <link>https://richard.hitechmadeez.com/tags/web-development.html</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>https://richard.hitechmadeez.com/tags/web-development.html</guid>
       <description></description>
     </item>
     

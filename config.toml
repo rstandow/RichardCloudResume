@@ -12,7 +12,7 @@ enableGitInfo = true
 [params]
 address = "Portland, OR"
 email = "rstandow+resume@gmail.com"
-favicon = "img/favicon.ico"
+favicon = "img/favicon.png"
 profileImage = "img/placeholder.png"
 firstName = "Richard"
 lastName = "Standow"
@@ -38,18 +38,6 @@ name = "LinkedIn"
 [[params.handles]]
 link = "https://github.com/rstandow"
 name = "GitHub"
-
-#[[params.handles]]
-#link = ""
-#name = "Bitbucket"
-
-#[[params.handles]]
-#link = "docs/testDLDoc.txt"
-#name = "download resume"
-
-#[[params.handles]]
-#link = ""
-#name = "Keybase"
 
 [outputs]
 home = ["HTML", "JSON"]
