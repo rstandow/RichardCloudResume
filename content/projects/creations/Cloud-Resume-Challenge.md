@@ -58,4 +58,9 @@ Will have to work on some more features for the sites so I can package test and 
 15. CI/CD (Front end)
 I will use GitHub with pipeline to push updates to this site
 16. Blog post  
-I created a resume and FAQ page so that people can download my resume and cover some FAQ questions people may have.
+I created a resume and FAQ page so that people can download my [Resume or CV]({{< ref "/blog/resume FAQ.html" >}} "Resume or CV") and cover some FAQ questions you may have.  
+
+
+  
+  
+     Thankyou for visiting,   {{% pageCounter %}}
