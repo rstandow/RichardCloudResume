@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Richard Standow</title>
+    <link>https://richard.hitechmadeez.com/</link>
+    <description>Recent content in Home on Richard Standow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://richard.hitechmadeez.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Resume Challenge</title>
+      <link>https://richard.hitechmadeez.com/projects/creations/cloud-resume-challenge.html</link>
+      <pubDate>Mon, 29 Aug 2022 14:29:22 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/projects/creations/cloud-resume-challenge.html</guid>
+      <description>As I lack proof of cloud skills working for others, I put this project together to showcase my skills. You may ask &amp;ldquo;What is Cloud Resume Challenge&amp;rdquo;? let me use a bit of Prompt engineering and see what GPT3 says &amp;ldquo;As more and more businesses move to the cloud; they are looking for ways to leverage this new technology to improve their bottom line. One way they are doing this is by challenging their employees to create resumes that are stored in the cloud.</description>
+    </item>
+    
+    <item>
+      <title>Atlassian Deployment Triggers</title>
+      <link>https://richard.hitechmadeez.com/projects/past-projects/deploy-triggers.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/projects/past-projects/deploy-triggers.html</guid>
+      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+    </item>
+    
+    <item>
+      <title>Resume and FAQ</title>
+      <link>https://richard.hitechmadeez.com/blog/resume-faq.html</link>
+      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/blog/resume-faq.html</guid>
+      <description>FAQ you may have.Q: Where are you now?
+A: Until Nov 5th 2022 I currently reside in Hua Hin Thailand. After Nov 5th I plan on living in Portland Oregon USA.Q: Are you willing to relocate?
+A: Yes I am willing to relocate for the right job.Q: What kind of job are you looking for?
+A: Full time and it would be great if I could work remote and live in Hua Hin Thailand.</description>
+    </item>
+    
+    <item>
+      <title>Added Docker Build Status Badge to shields.io</title>
+      <link>https://richard.hitechmadeez.com/projects/past-projects/shields-docker.html</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/projects/past-projects/shields-docker.html</guid>
+      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+    </item>
+    
+    <item>
+      <title>Schema.org Structured Data documentation fixes</title>
+      <link>https://richard.hitechmadeez.com/projects/past-projects/schema-org.html</link>
+      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/projects/past-projects/schema-org.html</guid>
+      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://richard.hitechmadeez.com/search.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/search.html</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
