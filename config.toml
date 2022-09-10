@@ -8,6 +8,8 @@ PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = true
+buildDrafts = false
+defaultContentLanguage = "en"
 
 [params]
 address = "Portland, OR"
@@ -32,7 +34,7 @@ showBlog = true
 trackerID = "UA-232949776-1"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/richard-standow-jr-42835b41/"
+link = "https://www.linkedin.com/in/richard-standow-jr"
 name = "LinkedIn"
 
 [[params.handles]]
