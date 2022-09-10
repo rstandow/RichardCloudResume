@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Richard Standow</title>
+    <link>https://richard.hitechmadeez.com/tags/git.html</link>
+    <description>Recent content in Git on Richard Standow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Sep 2022 12:05:51 +0700</lastBuildDate><atom:link href="https://richard.hitechmadeez.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume and FAQ</title>
+      <link>https://richard.hitechmadeez.com/blog/resume-faq.html</link>
+      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/blog/resume-faq.html</guid>
+      <description>FAQ you may have.Q: Where are you now?
+A: Until Nov 5th 2022 I currently reside in Hua Hin Thailand. After Nov 5th I plan on living in Portland Oregon USA.Q: Are you willing to relocate?
+A: Yes I am willing to relocate for the right job.Q: What kind of job are you looking for?
+A: Full time and it would be great if I could work remote and live in Hua Hin Thailand.</description>
+    </item>
+    
+  </channel>
+</rss>

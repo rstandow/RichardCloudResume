@@ -1,0 +1,46 @@
+﻿Richard Standow
+Cloud Solutions Architect 
+Until Nov 10th Then back To Portland Oregon USA
+Baan Kiang Fah Condo
+(Richard Standow)
+23/585 Petchakasem Rd, Hua Hin 112
+NongKae, Hua Hin, Prachuapkirikan 77110, Thailand
+1(971) 266-0167
+rstandow+resume@gmail.com
+Resume site with a lot more info
+https://richard.hitechmadeez.com
+SKILLS
+ARCHITECTURE AND CONTAINERS
+DNS, Firewalls, Load Balancing, IDS HIDS, AP Points, CDN, S3, EC2  CloudFront, WAF
+LANGUAGES, OPERATING SYSTEMS & TOOLS
+Python, git, subversion, linux, yaml, markdown, toml,MDM, At Rest Encryption and Full Disk,CRMs IE Hubspot, few salesforce
+PLATFORM DEVELOPMENT & ADMINISTRATION
+NGINX, MySQL, Wordpress, Hugo, LAMP, Windows AD, Windows Server various roles
+EXPERIENCE
+OFF THE REZ LLC,  Portland OR - Owner and Operator
+MAY 2018 - PRESENT
+I started and ran a few Print On Demand (POD) stores on Merch by Amazon, Amazon, Esty, and Shopify, but had to scale down operations due to constraints on running it from Thailand and rising cost.
+* I integrated Shopify and Etsy with manufacturers and payment processors, and oversaw the fulfillment of orders. I managed Shopify and Etsy accounts, as well as working with manufacturers and payment processors to ensure smooth integration and customer journey. If any issues arise, I am responsible for troubleshooting them.
+* Responsible for managing Business to Business account relations and ensuring positive interactions.
+* Ensuring that I meet all state, federal, and national compliance and tax regulations by using GAAP accounting principles and keeping up to date on any new government regulations in the areas where I do business.
+Paul Mitchell The School Portland, Portland OR - Dir Of Operations
+APR 2014 - FEB 2018
+I reviewed, analyzed, and evaluated the business procedures in place. Implemented policies and procedures that improved day-to-day operations. Ensured work environments are adequate and safe. Oversaw HR,Accounting, Purchasing, and Sales departments, ensuring each is reaching its set goals by department leads and company leadership.
+* Handled day to day operations for Sales,JP Jr (personal accounts), Accounting, Operations, and Admissions departments with 28 employees and 250 students
+* Worked with executives from other companies owned by John Paul DeJoria Sr, such as Patron,and others, to meet event and admissions goals.
+* PMTS was in a monthly net loss when I started, but in 120 days was at a positive monthly net income.
+* I worked with managers and students to help resolve concerns they may have had.
+Motosport.com - Help Desk and Jr Sys Admin
+JAN 2012 - MAR 2014
+As a junior systems administrator and Help Desk technician, I was responsible for updating hardware and software packages, revising documentation, installing computer and network systems, removing malware and other security threats, monitoring computer system backups, and preventing data corruption. This was all done for a fast paced large eCommerce company.
+* I provided Help Desk support to over 400 employees in a mixed Windows, Linux and Macintosh environment.
+* Maintained documentation on problems and remedial actions taken using the ticket system and internal company wiki.
+* Created new Active Directory accounts, and managed windows and linux file and print servers.
+* Served on call for performance of Production Servers and Enterprise level computer systems Windows AD, Debian Servers
+EDUCATION
+Sirada Learning Centre, Hua Hin Thailand - Thai language school
+JAN 2022 - OCT 2022
+Studied Thai achieved  intermediate conversation level 
+Portland Community College, Portland OR - Assoc Of Applied Science
+SEP 2018 - JUN 2020
+Only the math class requirement is the only thing left and did not want to take that virtually during covid.
