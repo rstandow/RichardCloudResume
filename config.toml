@@ -31,7 +31,7 @@ showBlog = true
 [params.google]
 
 [params.google.analytics]
-trackerID = "UA-232949776-1"
+trackerID = "G-D5JB51QRGL"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/richard-standow-jr"
