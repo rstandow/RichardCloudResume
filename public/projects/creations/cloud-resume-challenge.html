@@ -174,7 +174,22 @@ WordPress site is on MySQL</p>
 </li>
 <li>
 <p>API
-Using AWS Rest HTTP Gateway with a lambda trigger to increment the page counter.</p>
+Using AWS Rest HTTP Gateway with a lambda trigger to increment the page counter.<br>
+Visits to this page
+<div id="visits">...</div>
+<script>
+    function cb(response) {
+        document.getElementById('visits').innerText = response.value;
+    }
+</script>
+<script async src="https://api.countapi.xyz/hit/richard.hitechmadeez..com/visits?callback=cb"></script>
+<div id="visits">...</div>
+<script>
+    function cb(response) {
+        document.getElementById('visits').innerText = response.value;
+    }
+</script>
+<script async src="https://il4evunnw9.execute-api.us-west-1.amazonaws.com/default/richardResumeCounter"></script></p>
 </li>
 <li>
 <p>Python
@@ -203,11 +218,9 @@ I will use GitHub with pipeline to push updates to this site</p>
 <li>
 <p>Blog post<br>
 I created a resume and FAQ page so that people can download my <a href="https://richard.hitechmadeez.com/blog/resume-faq.html" title="Resume or CV">Resume or CV</a> and cover some FAQ questions you may have.</p>
-<p>Thankyou for visiting,   <!-- raw HTML omitted --></p>
-<!-- raw HTML omitted -->
+<p><strong>Thankyou for visiting</strong></p>
 </li>
 </ol>
-<!-- raw HTML omitted -->
 
     <p>Project link: <a href="https://richard.hitechmadeez.com/projects/creations/cloud-resume-challenge.html">https://richard.hitechmadeez.com/projects/creations/cloud-resume-challenge.html</a></p>
     <ul class="tags">

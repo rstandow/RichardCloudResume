@@ -4,4 +4,4 @@
         document.getElementById('visits').innerText = response.value;
     }
 </script>
-<script async src="https://api.countapi.xyz/hit/richard.hitechmadeez..com/visits?callback=cb"></script>
+<script async src="https://il4evunnw9.execute-api.us-west-1.amazonaws.com/default/richardResumeCounter"></script>

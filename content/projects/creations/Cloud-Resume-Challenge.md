@@ -44,7 +44,10 @@ I have a basic understanding of the syntax of JavaScript. I would not say I am f
 This site using DynamoDB for counter and few other things  
 WordPress site is on MySQL 
 9. API
-Using AWS Rest HTTP Gateway with a lambda trigger to increment the page counter.
+Using AWS Rest HTTP Gateway with a lambda trigger to increment the page counter.  
+Visits to this page
+{{< pagecounter >}}
+{{< TestCounter >}}
 10. Python
 Not a whole lot of Python is used on this project except the lambda function that calls the DynamoDB.I do plan on adding more later.
 11. Tests
@@ -63,4 +66,4 @@ I created a resume and FAQ page so that people can download my [Resume or CV]({{
 
   
   
-     Thankyou for visiting,   {{% pageCounter %}}
+     **Thankyou for visiting**

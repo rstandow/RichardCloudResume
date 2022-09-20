@@ -6,13 +6,67 @@
     <description>Recent content in Tags on Richard Standow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Sep 2022 12:05:51 +0700</lastBuildDate><atom:link href="https://richard.hitechmadeez.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2022 12:42:14 +0700</lastBuildDate><atom:link href="https://richard.hitechmadeez.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS</title>
       <link>https://richard.hitechmadeez.com/tags/aws.html</link>
-      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
+      <pubDate>Tue, 20 Sep 2022 12:42:14 +0700</pubDate>
       
       <guid>https://richard.hitechmadeez.com/tags/aws.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CloudFront</title>
+      <link>https://richard.hitechmadeez.com/tags/cloudfront.html</link>
+      <pubDate>Tue, 20 Sep 2022 12:42:14 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/tags/cloudfront.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EC2</title>
+      <link>https://richard.hitechmadeez.com/tags/ec2.html</link>
+      <pubDate>Tue, 20 Sep 2022 12:42:14 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/tags/ec2.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Membership Website</title>
+      <link>https://richard.hitechmadeez.com/tags/membership-website.html</link>
+      <pubDate>Tue, 20 Sep 2022 12:42:14 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/tags/membership-website.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>https://richard.hitechmadeez.com/tags/monitoring.html</link>
+      <pubDate>Tue, 20 Sep 2022 12:42:14 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/tags/monitoring.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenAI</title>
+      <link>https://richard.hitechmadeez.com/tags/openai.html</link>
+      <pubDate>Tue, 20 Sep 2022 12:42:14 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/tags/openai.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Route53</title>
+      <link>https://richard.hitechmadeez.com/tags/route53.html</link>
+      <pubDate>Tue, 20 Sep 2022 12:42:14 +0700</pubDate>
+      
+      <guid>https://richard.hitechmadeez.com/tags/route53.html</guid>
       <description></description>
     </item>
     
@@ -22,15 +76,6 @@
       <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
       
       <guid>https://richard.hitechmadeez.com/tags/cloud.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CloudFront</title>
-      <link>https://richard.hitechmadeez.com/tags/cloudfront.html</link>
-      <pubDate>Tue, 06 Sep 2022 12:05:51 +0700</pubDate>
-      
-      <guid>https://richard.hitechmadeez.com/tags/cloudfront.html</guid>
       <description></description>
     </item>
     
@@ -76,15 +121,6 @@
       <pubDate>Mon, 29 Aug 2022 14:29:22 +0700</pubDate>
       
       <guid>https://richard.hitechmadeez.com/tags/css.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EC2</title>
-      <link>https://richard.hitechmadeez.com/tags/ec2.html</link>
-      <pubDate>Mon, 29 Aug 2022 14:29:22 +0700</pubDate>
-      
-      <guid>https://richard.hitechmadeez.com/tags/ec2.html</guid>
       <description></description>
     </item>
     

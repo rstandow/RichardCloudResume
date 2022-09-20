@@ -22,6 +22,10 @@
     <lastmod>2022-08-29T15:40:03+07:00</lastmod>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://richard.hitechmadeez.com/projects/creations/hitechmadeez-website.html</loc>
+    <lastmod>2022-09-20T12:42:14+07:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://richard.hitechmadeez.com/blog/resume-faq.html</loc>
     <lastmod>2022-09-19T13:32:38+07:00</lastmod>
     <priority>0.8</priority>
@@ -35,12 +39,30 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://richard.hitechmadeez.com/tags/aws.html</loc>
-    <lastmod>2022-09-19T13:32:38+07:00</lastmod>
-  </url><url>
-    <loc>https://richard.hitechmadeez.com/tags/cloud.html</loc>
-    <lastmod>2022-09-19T13:32:38+07:00</lastmod>
+    <lastmod>2022-09-20T12:42:14+07:00</lastmod>
   </url><url>
     <loc>https://richard.hitechmadeez.com/tags/cloudfront.html</loc>
+    <lastmod>2022-09-20T12:42:14+07:00</lastmod>
+  </url><url>
+    <loc>https://richard.hitechmadeez.com/tags/ec2.html</loc>
+    <lastmod>2022-09-20T12:42:14+07:00</lastmod>
+  </url><url>
+    <loc>https://richard.hitechmadeez.com/tags/membership-website.html</loc>
+    <lastmod>2022-09-20T12:42:14+07:00</lastmod>
+  </url><url>
+    <loc>https://richard.hitechmadeez.com/tags/monitoring.html</loc>
+    <lastmod>2022-09-20T12:42:14+07:00</lastmod>
+  </url><url>
+    <loc>https://richard.hitechmadeez.com/tags/openai.html</loc>
+    <lastmod>2022-09-20T12:42:14+07:00</lastmod>
+  </url><url>
+    <loc>https://richard.hitechmadeez.com/tags/route53.html</loc>
+    <lastmod>2022-09-20T12:42:14+07:00</lastmod>
+  </url><url>
+    <loc>https://richard.hitechmadeez.com/tags.html</loc>
+    <lastmod>2022-09-20T12:42:14+07:00</lastmod>
+  </url><url>
+    <loc>https://richard.hitechmadeez.com/tags/cloud.html</loc>
     <lastmod>2022-09-19T13:32:38+07:00</lastmod>
   </url><url>
     <loc>https://richard.hitechmadeez.com/tags/git.html</loc>
@@ -55,13 +77,7 @@
     <loc>https://richard.hitechmadeez.com/tags/s3.html</loc>
     <lastmod>2022-09-19T13:32:38+07:00</lastmod>
   </url><url>
-    <loc>https://richard.hitechmadeez.com/tags.html</loc>
-    <lastmod>2022-09-19T13:32:38+07:00</lastmod>
-  </url><url>
     <loc>https://richard.hitechmadeez.com/tags/css.html</loc>
-    <lastmod>2022-09-09T12:03:11+07:00</lastmod>
-  </url><url>
-    <loc>https://richard.hitechmadeez.com/tags/ec2.html</loc>
     <lastmod>2022-09-09T12:03:11+07:00</lastmod>
   </url><url>
     <loc>https://richard.hitechmadeez.com/tags/load-balancer.html</loc>
@@ -89,7 +105,7 @@
     <lastmod>2022-08-29T15:40:03+07:00</lastmod>
   </url><url>
     <loc>https://richard.hitechmadeez.com/</loc>
-    <lastmod>2022-09-19T13:32:38+07:00</lastmod>
+    <lastmod>2022-09-20T11:01:23+07:00</lastmod>
     <priority>1</priority>
   </url><url>
     <loc>https://richard.hitechmadeez.com/tags/bamboo.html</loc>
