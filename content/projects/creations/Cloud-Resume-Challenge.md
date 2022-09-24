@@ -56,9 +56,9 @@ All throughout this project I developed dev environments and conducted tests to 
 12. Infrastructure as Code
 This area I struggled a bit. As I am still learning all the services of AWS and how they interact with each other. I found it difficult to write code in Json or Yaml without exploring what service did what it wanted using the GUI.
 13. Source Control
-I am using Visual Studio and uploading to git for source control. I have the S3 buckets versioning. I even played with AWS Config, but the cost was a bit much after a couple days as I was constantly making changes in several areas.
+I am using Visual Studio and uploading to git for source control. I have the S3 buckets versioning. I even played with AWS Config service, but the cost was a bit much $$$ after a couple days as I was constantly making changes in several areas.
 14. CI/CD (Back end)
-Will have to work on some more features for the sites so I can package test and deploy 
+I am running github workflow setup and running. 
 15. CI/CD (Front end)
 I will use GitHub with pipeline to push updates to this site
 16. Blog post  
