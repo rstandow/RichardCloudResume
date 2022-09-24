@@ -58,7 +58,7 @@ This area I struggled a bit. As I am still learning all the services of AWS and 
 13. Source Control
 I am using Visual Studio and uploading to git for source control. I have the S3 buckets versioning. I even played with AWS Config service, but the cost was a bit much $$$ after a couple days as I was constantly making changes in several areas.
 14. CI/CD (Back end)
-I am running github workflow setup and running. 
+I am running github workflow to push from local computer to github then to S3 bucket
 15. CI/CD (Front end)
 I will use GitHub with pipeline to push updates to this site
 16. Blog post  
