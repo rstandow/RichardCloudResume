@@ -45,13 +45,14 @@ This site using DynamoDB for counter and few other things
 WordPress site is on MySQL 
 9. API
 Using AWS Rest HTTP Gateway with a lambda trigger to increment the page counter.  
+I will be honest java is my weak area I have all the connections working its just the display format. When it renders the result it clears all the formatting here and I am trying to figure out why. With moving back to the US I am super busy. So I have just made a call with another API  
 Visits to this page
-{{< pagecounter >}}
-{{< TestCounter >}}
+{{< pagecounter >}}  
+Here is my Java that makes the AWS call that is displaying incorrectly. [Git Repo With Page Counter](https://github.com/rstandow/pagecounterAWS.git)
 10. Python
 Not a whole lot of Python is used on this project except the lambda function that calls the DynamoDB.I do plan on adding more later.
 11. Tests
-All throughout this project I developed dev environments and conducted tests to ensure the code worked. I use CloudWatch for various segments to monitor errors and downtime. 
+All throughout this project I developed dev environments and conducted tests to ensure the code worked. I use CloudWatch for various segments to monitor errors and downtime.I am using CloudFront Health check and another outside party to monitor this site and others I am hosting for friends and family. 
 12. Infrastructure as Code
 This area I struggled a bit. As I am still learning all the services of AWS and how they interact with each other. I found it difficult to write code in Json or Yaml without exploring what service did what it wanted using the GUI.
 13. Source Control

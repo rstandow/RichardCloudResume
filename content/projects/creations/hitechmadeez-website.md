@@ -4,7 +4,7 @@ date: 2022-09-20T12:42:14+07:00
 featured: true
 description: "Website I am using to help educating friends and family"
 tags: ["EC2","Route53","CloudFront","Membership Website","AWS","Monitoring","OpenAI"]
-image: ""
+image: "img/hitech.webp"
 link: "https://hitechmadeez.com/"
 fact: "I have had this domain for years just now putting it to use"
 weight: 500
@@ -25,4 +25,9 @@ If you go to hosting.hitechmadeez.com you will see that is Plesk login. I am run
 **Third Role**  
 While I am still in AWS 12-month free tier, explore and use AWS services and put them into practice. This does not mean everything is free for me, but I try my best to keep the cost down. I can also see for myself how to
 explore AWS Budget explorer, see how the cost are applied. I have a budget setup and alerts in place, I average around $100 US. Always looking how to maximize resources to minimalize cost. I have found this very useful 
-in understanding how the services work and what benefits they bring.
+in understanding how the services work and what benefits they bring.  
+  
+**UPDATE 24 Sept 2022**  
+After revieving finaces(Moving back to US and soaring cost) and looking at comitment feature rich but demanding Production web hosting eveiorment. The time required and honesty response time if anyone had any sort of peoblems.
+I have moved almost everything to Hosted provider.All that is left is S3 containers , this resume site running on S3 and cloudwatch. I learned alot but in the end time and money forced me to move everything. I learned alot and will use AWS for small or personal projects.
+I am revamping HiTechMadeEZ once it is updated I will change this.

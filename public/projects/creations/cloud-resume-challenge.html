@@ -175,6 +175,7 @@ WordPress site is on MySQL</p>
 <li>
 <p>API
 Using AWS Rest HTTP Gateway with a lambda trigger to increment the page counter.<br>
+I will be honest java is my weak area I have all the connections working its just the display format. When it renders the result it clears all the formatting here and I am trying to figure out why. With moving back to the US I am super busy. So I have just made a call with another API<br>
 Visits to this page
 <div id="visits">...</div>
 <script>
@@ -182,14 +183,8 @@ Visits to this page
         document.getElementById('visits').innerText = response.value;
     }
 </script>
-<script async src="https://api.countapi.xyz/hit/richard.hitechmadeez..com/visits?callback=cb"></script>
-<div id="visits">...</div>
-<script>
-    function cb(response) {
-        document.getElementById('visits').innerText = response.value;
-    }
-</script>
-<script async src="https://il4evunnw9.execute-api.us-west-1.amazonaws.com/default/richardResumeCounter"></script></p>
+<script async src="https://api.countapi.xyz/hit/richard.hitechmadeez..com/visits?callback=cb"></script><br>
+Here is my Java that makes the AWS call that is displaying incorrectly. <a href="https://github.com/rstandow/pagecounterAWS.git">Git Repo With Page Counter</a></p>
 </li>
 <li>
 <p>Python
@@ -197,7 +192,7 @@ Not a whole lot of Python is used on this project except the lambda function tha
 </li>
 <li>
 <p>Tests
-All throughout this project I developed dev environments and conducted tests to ensure the code worked. I use CloudWatch for various segments to monitor errors and downtime.</p>
+All throughout this project I developed dev environments and conducted tests to ensure the code worked. I use CloudWatch for various segments to monitor errors and downtime.I am using CloudFront Health check and another outside party to monitor this site and others I am hosting for friends and family.</p>
 </li>
 <li>
 <p>Infrastructure as Code
