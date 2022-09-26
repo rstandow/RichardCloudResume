@@ -4,7 +4,7 @@ date: 2022-09-20T12:42:14+07:00
 featured: true
 description: "Website I am using to help educating friends and family"
 tags: ["EC2","Route53","CloudFront","Membership Website","AWS","Monitoring","OpenAI"]
-image: "img/hitech.webp"
+image: "img/computerRoom.webp"
 link: "https://hitechmadeez.com/"
 fact: "I have had this domain for years just now putting it to use"
 weight: 500
