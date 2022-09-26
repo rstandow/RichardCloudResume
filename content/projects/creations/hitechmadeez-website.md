@@ -11,6 +11,11 @@ weight: 500
 sitemap:
   priority : 0.8
 ---
+
+
+{{< figure src="/img/computerRoom.webp" alt="HiTechMadeEZ" width="1500px" >}}  
+
+
 HiTechMadeEz is a website I created that will provide a variety of resources to help people educate their friends and family members about technology. The website has several articles, videos, and other resources that can 
 be used to educate others about various topics related to technology. The website will also have several forums where people can ask questions and get help from others who are more knowledgeable about technology. 
 HiTechMadeEz is a great resource for anyone who wants to learn more about technology or educate others about it.  
