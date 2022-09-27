@@ -4,7 +4,7 @@ date: 2022-08-29T14:29:22+07:00
 featured: true
 description: "MY AWS Cloud Resume Challenge"
 tags: ["AWS","CSS","CloudFront","Load Balancer","EC2","S3","WAF","Lambda","Rest API"]
-image: "img/NetworkDiagram.webp"
+image: "img/NetworkDiagram1.webp"
 link: "https://richard.hitechmadeez.com/projects/creations/cloud-resume-challenge.html"
 fact: ""
 weight: 5
@@ -13,8 +13,7 @@ sitemap:
 ---
   
   
-
-{{< figure src="/img/NetworkDiagram.webp" alt="Network Diagram" width="1500px" >}}
+{{< figure src="/img/NetworkDiagram.webp" alt="Network Diagram" >}}
 
 As I lack proof of cloud skills working for others, I put this project together to showcase my skills. You may ask "What is Cloud Resume Challenge"? let me use a bit of Prompt engineering and see what GPT3 says "As more and more businesses move to the cloud; they are looking for ways to leverage this new technology to improve their bottom line. One way they are doing this is by challenging their employees to create resumes that are stored in the cloud.
 The cloud resume challenge is a way for businesses to encourage their employees to create resumes that are stored in the cloud. This way, if an employee leaves the company, their resume is still stored in the cloud and can be accessed by the new employer.
