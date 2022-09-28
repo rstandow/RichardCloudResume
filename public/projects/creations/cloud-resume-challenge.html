@@ -125,48 +125,45 @@
 <section class="resume-section p-3 p-lg-5 d-flex d-column">
   <div class="my-auto">
     <h2 class="mb-0"><span class="text-primary">Cloud Resume Challenge</span></h2>
-    <p><figure><img src="../../img/NetworkDiagram.webp"
+    <figure><img src="../../img/NetworkDiagram.webp"
          alt="Network Diagram"/>
 </figure>
 
-</p>
-<p>As I lack proof of cloud skills working for others, I put this project together to showcase my skills. You may ask &ldquo;What is Cloud Resume Challenge&rdquo;? let me use a bit of Prompt engineering and see what GPT3 says &ldquo;As more and more businesses move to the cloud; they are looking for ways to leverage this new technology to improve their bottom line. One way they are doing this is by challenging their employees to create resumes that are stored in the cloud.
-The cloud resume challenge is a way for businesses to encourage their employees to create resumes that are stored in the cloud. This way, if an employee leaves the company, their resume is still stored in the cloud and can be accessed by the new employer.
-This challenge can be used to improve employee retention, as well as to help businesses save money on printing and storing paper resumes. It is also a way to encourage employees to keep their resumes up to date.
-If you are a business owner or manager, you can encourage your employees to participate in the cloud resume challenge by offering a prize for the best resume. This can be a monetary prize, or it can be something like a free day off.
-To get started, all you need to do is create a cloud storage account and give your employees access to it. Then, challenge them to create the best resume they can. The sky&rsquo;s the limit!&rdquo;  Interesting that GPT3 used the approach of looking at it from an employers point of view. 
+<h1 id="what-is-a-cloud-resume">What is a Cloud Resume?</h1>
+<blockquote>
+<p>The Cloud Resume Challenge is a multiple step resume project which helps build and demonstrate skills fundamental to pursuing a career as an AWS Cloud Engineer. the project was first published by Forrest Brazeal. who works at A Cloud Guru, a cloud education company. <a href="https://www.linkedin.com/pulse/cloud-resume-challenge-abraham-musa#:~:text=The%20Cloud%20Resume%20Challenge%20is,Guru%2C%20a%20cloud%20education%20company"   target="_blank" >Linkdin</a></p>
+</blockquote>
 <!-- raw HTML omitted -->
-I used this template from this site <a href="https://cloudresumechallenge.dev/docs/the-challenge/aws"   target="_blank" >https://cloudresumechallenge.dev/docs/the-challenge/aws</a> modified it a bit, by adding more to it and over the time I will add more functionality to this page and hitechmadeez.com.</p>
 <p><strong>Here are the steps I took with a breakdown</strong><br>
 <!-- raw HTML omitted --></p>
 <ol>
 <li>
 <p>Certification<br>
-I have finished both the AWS training for Practitioners, and Solutions Architect. I will wait until I am back in the US to take the test, which should be Nov or Dec 22.</p>
+I have finished the AWS training for Practitioners, and Solutions Architect. I will wait until I am back in the US to take the test, which should be Nov or Dec 2022.</p>
 </li>
 <li>
 <p>HTML</p>
 </li>
 <li>
 <p>CSS<br>
-For section two and three I decided to learn a markdown compiler called <strong>Hugo</strong> to challenge myself and see how well it generates CSS files. It has been a journey learning Hugo and seeing what it can do.</p>
+For section two and three I decided to learn a markdown compiler called <strong>Hugo</strong> to challenge myself and see how well it generates CSS files. It has been a journey learning Hugo and seeing what it can do. I am still working on image processing for this static site. This has been a bit more tricker than I thought it would be.</p>
 </li>
 <li>
 <p>Static Website<br>
-This resume site is a static site hosted on S3 container with its www counterpart also on S3 container pointing to the root S3 container also kept as failover if needed. 
-I also created a dynamic site, the root domain of this one <a href="https://www.hitechmadeez.com"   target="_blank" >https://www.hitechmadeez.com</a> that uses Wordpress. This allowed me to practice using WordPress and keeping it secure and up to date and other AWS services S3 bucket for offsite image storage, VPC, Load Balancer, EC2, AMI Image, Snapshots, CloudFront, WAF. I also set up a mail server. I had to set up an SMTP relay since most cloud providers do not allow mail servers without special permission.</p>
+This resume site is a static site hosted on S3 container with its www counterpart also on S3 container pointing to the root domain S3 container also kept the www as a failover if needed. 
+I also created a dynamic site, the root domain of this one <a href="https://www.hitechmadeez.com"   target="_blank" >https://www.hitechmadeez.com</a> that uses WordPress. I had setup an entire network based on the diagram but the cost of running EC2 and license I turned if off.I moved the site to cheap cloud hosting provider. You can see more information on what I did here <a href="https://richard.hitechmadeez.com/projects/creations/hitechmadeez-website.html"  title="HiTechMadeEZ Project"  >HiTechMadeEZ Project</a></p>
 </li>
 <li>
 <p>HTTPS<br>
-This site is secured with CloudFront SSL cert the root domain www is CloudFront cache while dev. and other testing environments that I used a lets encrypt and wildcard for mail and sub domains</p>
+This site is secured with CloudFront SSL certificate issued from AWS.</p>
 </li>
 <li>
 <p>DNS<br>
-The lamp stack server has its internal DNS for name servers for other sub domains. This and main site are hosted through Route53</p>
+I was using route 53 and may move back over right now I am using the DNS provided by my new hosting company. I may move back to route 53 when I have the funds to pay for the cloud projects.</p>
 </li>
 <li>
 <p>JavaScript<br>
-I have a basic understanding of the syntax of JavaScript. I would not say I am fluent in using it yet. It is on my list of to do though. The visitor counter is making its API call using JavaScript that sends a get through a lambda function that increments the count in DynamoDB.Returns the database value.</p>
+This is my weak area I am having displaying issues with my counter.</p>
 </li>
 <li>
 <p>Database<br>
@@ -176,7 +173,7 @@ WordPress site is on MySQL</p>
 <li>
 <p>API
 Using AWS Rest HTTP Gateway with a lambda trigger to increment the page counter.<br>
-I will be honest java is my weak area I have all the connections working its just the display format. When it renders the result it clears all the formatting here and I am trying to figure out why. With moving back to the US I am super busy. So I have just made a call with another API<br>
+I will be honest java is my weak area I have all the connections working its just the display format. When it renders the result, it clears all the formatting here and I am trying to figure out why. With moving back to the US, I am super busy. So, I have just made a call with another API<br>
 Visits to this page
 <div id="visits">...</div>
 <script>
@@ -189,23 +186,23 @@ Here is my Java that makes the AWS call that is displaying incorrectly. <a href=
 </li>
 <li>
 <p>Python
-Not a whole lot of Python is used on this project except the lambda function that calls the DynamoDB.I do plan on adding more later.</p>
+Not a whole lot of Python is used on this project except the lambda function that calls the DynamoDB. I do plan on adding more later.</p>
 </li>
 <li>
 <p>Tests
-All throughout this project I developed dev environments and conducted tests to ensure the code worked. I use CloudWatch for various segments to monitor errors and downtime.I am using CloudFront Health check and another outside party to monitor this site and others I am hosting for friends and family.</p>
+All throughout this project I developed dev environments and conducted tests to ensure the code worked. I use CloudWatch for various segments to monitor errors and downtime. I am using CloudFront Health check and another outside party to monitor this site.</p>
 </li>
 <li>
 <p>Infrastructure as Code
-This area I struggled a bit. As I am still learning all the services of AWS and how they interact with each other. I found it difficult to write code in Json or Yaml without exploring what service did what it wanted using the GUI.</p>
+I am still learning all the services of AWS and how they interact with each other. I found it difficult to write code in Json or Yaml without exploring what service did what and found it easier to use GUI to get an idea on how they worked together.</p>
 </li>
 <li>
 <p>Source Control
-I am using Visual Studio and uploading to git for source control. I have the S3 buckets versioning. I even played with AWS Config service, though I had too many rules after a couple days I turned this off as I was constantly making changes in several areas.</p>
+I am using Visual Studio and uploading to git for source control. I have the S3 buckets versioning turned on. I even played with AWS Config service, though I had too many rules after a couple days I turned this off as I was constantly making changes in several areas.</p>
 </li>
 <li>
 <p>CI/CD (Back end)
-I am running github workflow to push from local computer to github then to S3 bucket</p>
+I am running GitHub workflow to push from local computer to GitHub then to S3 bucket</p>
 </li>
 <li>
 <p>CI/CD (Front end)

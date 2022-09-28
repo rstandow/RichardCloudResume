@@ -13,7 +13,10 @@
       <pubDate>Mon, 29 Aug 2022 14:29:22 +0700</pubDate>
       
       <guid>https://richard.hitechmadeez.com/projects/creations/cloud-resume-challenge.html</guid>
-      <description>As I lack proof of cloud skills working for others, I put this project together to showcase my skills. You may ask &amp;ldquo;What is Cloud Resume Challenge&amp;rdquo;? let me use a bit of Prompt engineering and see what GPT3 says &amp;ldquo;As more and more businesses move to the cloud; they are looking for ways to leverage this new technology to improve their bottom line. One way they are doing this is by challenging their employees to create resumes that are stored in the cloud.</description>
+      <description>What is a Cloud Resume? The Cloud Resume Challenge is a multiple step resume project which helps build and demonstrate skills fundamental to pursuing a career as an AWS Cloud Engineer. the project was first published by Forrest Brazeal. who works at A Cloud Guru, a cloud education company. Linkdin
+Here are the steps I took with a breakdown
+Certification
+I have finished the AWS training for Practitioners, and Solutions Architect.</description>
     </item>
     
     <item>
@@ -22,7 +25,8 @@
       <pubDate>Tue, 20 Sep 2022 12:42:14 +0700</pubDate>
       
       <guid>https://richard.hitechmadeez.com/projects/creations/hitechmadeez-website.html</guid>
-      <description>HiTechMadeEz is a website I created that will provide a variety of resources to help people educate their friends and family members about technology. The website has several articles, videos, and other resources that can be used to educate others about various topics related to technology. The website will also have several forums where people can ask questions and get help from others who are more knowledgeable about technology. HiTechMadeEz is a great resource for anyone who wants to learn more about technology or educate others about it.</description>
+      <description>HiTechMadeEZ.com HiTechMadeEz is a website I created that will provide a variety of resources to people and help educate friends and family members about using technology.
+I have changed my mind several times on how I want to approach this goal of education and whom is my audience. At first, I used AWS did a full-scale backend. Route 53 as my DNS, load balancer, EC2 LAMP stack then AMI image of Plesk, CloudFront, S3.</description>
     </item>
     
   </channel>
