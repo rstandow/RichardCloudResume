@@ -17,7 +17,7 @@ sitemap:
 
 # What is a Cloud Resume?  
 
-> The Cloud Resume Challenge is a multiple step resume project which helps build and demonstrate skills fundamental to pursuing a career as an AWS Cloud Engineer. the project was first published by Forrest Brazeal. who works at A Cloud Guru, a cloud education company. [Linkdin]( https://www.linkedin.com/pulse/cloud-resume-challenge-abraham-musa#:~:text=The%20Cloud%20Resume%20Challenge%20is,Guru%2C%20a%20cloud%20education%20company) 
+> The Cloud Resume Challenge is a multiple step resume project which helps build and demonstrate skills fundamental to pursuing a career as an Cloud Engineer. The project was first published by Forrest Brazeal. who works at A Cloud Guru, a cloud education company. [Linkdin]( https://www.linkedin.com/pulse/cloud-resume-challenge-abraham-musa#:~:text=The%20Cloud%20Resume%20Challenge%20is,Guru%2C%20a%20cloud%20education%20company) 
 
 <br>
 I used this template from this site https://cloudresumechallenge.dev/docs/the-challenge/aws modified it a bit, by adding more to it and over the time I will add more functionality to this page and hitechmadeez.com.  
@@ -25,17 +25,17 @@ I used this template from this site https://cloudresumechallenge.dev/docs/the-ch
 **Here are the steps I took with a breakdown**  
 <br>  
 1. Certification  
-I have finished the AWS training for Practitioners, and Solutions Architect. I will wait until I am back in the US to take the test, which should be Nov or Dec 2022.
+I have finished the AWS training for Practitioners, and Solutions Architect. I will wait until I am back in the US to take the test, I will be back in USA Nov 11 2022.
 2. HTML
 3. CSS  
 For section two and three I decided to learn a markdown compiler called **Hugo** to challenge myself and see how well it generates CSS files. It has been a journey learning Hugo and seeing what it can do. I am still working on image processing for this static site. This has been a bit more tricker than I thought it would be.
 4. Static Website  
-This resume site is a static site hosted on S3 container with its www counterpart also on S3 container pointing to the root domain S3 container also kept the www as a failover if needed. 
-I also created a dynamic site, the root domain of this one https://www.hitechmadeez.com that uses WordPress. I had setup an entire network based on the diagram but the cost of running EC2 and license I turned if off.I moved the site to cheap cloud hosting provider. You can see more information on what I did here [HiTechMadeEZ Project]({{< ref "/projects/creations/hitechmadeez-website.md" >}} "HiTechMadeEZ Project")
+This resume site is a static site hosted on S3 container with its www counterpart also on S3 container pointing to the root domain S3 container also kept the www S3 container as a failover if needed. 
+I created a dynamic site, the root domain of this one https://www.hitechmadeez.com that uses WordPress. I had setup an entire network based on the diagram in AWS but the cost of running EC2 and license and coming back to live in the US, I turned off most of the services.I moved the hitechmadeez.com to cheap cloud hosting provider still working on it. You can see more information on what I did here [HiTechMadeEZ Project]({{< ref "/projects/creations/hitechmadeez-website.md" >}} "HiTechMadeEZ Project")
 5. HTTPS  
 This site is secured with CloudFront SSL certificate issued from AWS.
 6. DNS  
-I was using route 53 and may move back over right now I am using the DNS provided by my new hosting company. I may move back to route 53 when I have the funds to pay for the cloud projects.
+I was using route 53 and may move back over. Right now I am using the DNS provided by my new hosting company and setup a CDN using Litespeed CDN. I have the pageingihts score at 99 mobile and 100 Desktop. I may move back to route 53 when I have the funds to pay for other cloud projects I have planned.
 7. JavaScript  
 This is my weak area I am having displaying issues with my counter. 
 8. Database  
