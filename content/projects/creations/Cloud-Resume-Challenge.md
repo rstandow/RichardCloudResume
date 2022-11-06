@@ -22,16 +22,16 @@ sitemap:
 <br>
 I used this template from this site https://cloudresumechallenge.dev/docs/the-challenge/aws modified it a bit, by adding more to it and over the time I will add more functionality to this page and hitechmadeez.com.  
   
-**Here are the steps I took with a breakdown**  
+**Here are the steps I took with a complete breakdown**  
 <br>  
 1. Certification  
-I have finished the AWS training for Practitioners, and Solutions Architect. I will wait until I am back in the US to take the test, I will be back in USA Nov 11 2022.
+I have finished the AWS training for Practitioners, and Solutions Architect. I just moved back to the States Nov 6th still getting from Thailand. I plan on taking the certifactions in a month or two.
 2. HTML
 3. CSS  
 For section two and three I decided to learn a markdown compiler called **Hugo** to challenge myself and see how well it generates CSS files. It has been a journey learning Hugo and seeing what it can do. I am still working on image processing for this static site. This has been a bit more tricker than I thought it would be.
 4. Static Website  
-This resume site is a static site hosted on S3 container with its www counterpart also on S3 container pointing to the root domain S3 container also kept the www S3 container as a failover if needed. 
-I created a dynamic site, the root domain of this one https://www.hitechmadeez.com that uses WordPress. I had setup an entire network based on the diagram in AWS but the cost of running EC2 and license and coming back to live in the US, I turned off most of the services.I moved the hitechmadeez.com to cheap cloud hosting provider still working on it. You can see more information on what I did here [HiTechMadeEZ Project]({{< ref "/projects/creations/hitechmadeez-website.md" >}} "HiTechMadeEZ Project")
+This resume site is a static site hosted on two serpeate S3 Containers. Non www is main container and the www. container for redirect and also serving as backup if needed.  
+I created a dynamic site, the root domain of this one https://www.hitechmadeez.com that uses WordPress. I had setup an entire cloud network based on the diagram in AWS but the cost of running EC2 and license and coming back to live in the US, I turned off most of the services.I moved the hitechmadeez.com to cheap cloud hosting provider still working on it. You can see more information on what I did here [HiTechMadeEZ Project]({{< ref "/projects/creations/hitechmadeez-website.md" >}} "HiTechMadeEZ Project")
 5. HTTPS  
 This site is secured with CloudFront SSL certificate issued from AWS.
 6. DNS  
